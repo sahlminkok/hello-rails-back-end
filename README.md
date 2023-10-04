@@ -27,7 +27,7 @@
 # 📖 Hello Rails Back-End <a name="about-project"></a>
 
 
-**Hello Rails Back-End** is a project incorporates a Ruby on Rails API app with PostgreSQL database as a back end app to a react and redux front end APP. It serves data and responds to its frontend in JSON.
+**Hello Rails Back-End** is a project incorporates a Ruby on Rails API app with PostgreSQL database as a back end app to a [react and redux](https://github.com/sahlminkok/hello-react-front-end) front end APP. It serves data and responds to its frontend in JSON.
 
 ## 🛠 Built With <a name="built-with"></a>
 
